@@ -57,6 +57,11 @@ From the blog [用Python进行语言检测](https://zhuanlan.zhihu.com/p/8462518
   - [`jieba`](https://github.com/fxsjy/jieba.git)
   - [`thulac`](http://thulac.thunlp.org/)
 
+|  Tools    | Included   | Not Included |  ALL   |
+|   :----:  | :----:     | :----:       | :----: |
+| jieba     | 15131      |4908          | 20039  |
+| thulac    | 12124      |6276          | 18400  |
+
 # About Tranditional2Simplyfy
 
 There are some libs for this kind of task, like:
